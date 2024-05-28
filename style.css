@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.brand-logo {
+    width: 180px;
+    height: 60px;
+}
+
+.navbar-text {
+    color: black !important;
+}
+
+.bg-container {
+    font-family: "Roboto";
+}
+
+.main-heading {
+    color: #183b56;
+    font-weight: 600;
+}
+
+.description {
+    color: #616c7c;
+    font-size: 24px;
+}
+
+.card-image {
+    width: 25%;
+}
+
+.card-heading {
+    font-size: 32px;
+}
+
+.card-paragraph {
+    color: #7b8794;
+    font-size: 22px;
+}
+
+.bg-container-our-products {
+    font-family: "Roboto";
+}
+
+.main-heading-our-products {
+    font-weight: 600;
+    color: #183b56;
+}
+
+.card-1-bg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    height: 340px;
+    border-radius: 24px;
+}
+
+.card-2-bg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    height: 340px;
+    border-radius: 24px;
+}
+
+.card-heading-our-products {
+    color: white;
+    font-weight: 600;
+    font-size: 52px;
+}
+
+.card-paragraph-our-products {
+    color: white;
+}
+
+.card-button-our-products {
+    color: #ff9f00;
+    border-radius: 20px;
+}
+
+.bg-container-offer-section {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    font-family: "Roboto";
+    color: white;
+}
+
+.main-heading-offer-section {
+    color: #ad2167;
+    font-family: "Bree-serif";
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.sub-heading-offer-section {
+    font-size: 32px;
+}
+
+.offer {
+    font-weight: bold;
+}
+
+.rounded-corner {
+    border-radius: 24px;
+}
+
+.bg-container-trending-blogs {
+    font-family: "Roboto";
+}
+
+.main-heading-trending-blogs {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 64px;
+}
+
+.card-image-trending-blogs {
+    width: 100%;
+}
+
+.card-sub-heading-trending-blogs {
+    color: #959ead;
+    font-size: 24px;
+}
+
+.card-heading-trending-blogs {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.card-paragraph-trending-blogs {
+    color: #959ead;
+    font-size: 36px;
+}
+
+.read-more-trending-blogs {
+    color: #ff9f00;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.bg-container-explore-deals {
+    background-color: #f5f7fa;
+    font-family: "Roboto";
+}
+
+.main-heading-explore-deals {
+    font-size: 52px;
+    font-weight: 600;
+    color: #183b56;
+}
+
+.card-container {
+    border-radius: 24px;
+    background-color: white;
+}
+
+.card-heading {
+    font-size: 24px;
+    font-weight: 600;
+    color: #183b56;
+}
+
+.image-styling {
+    border-radius: 24px;
+}
+
+.card-text {
+    font-size: 16px;
+}
+
+.see-all-deals {
+    color: #ff9f00;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.bg-container-contact-us {
+    background-color: #f5f7fa;
+    font-family: "Roboto";
+}
+
+.main-heading-contact-us {
+    color: #183b56;
+    font-weight: 600;
+    font-size: 44px;
+}
+
+.button-styling-contact-us {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #ff9f00;
+    border-radius: 0px;
+    color: #ff9f00;
+    font-size: 22px;
+}
+
+.bg-container-footer {
+    background-color: #0d2436;
+    font-family: "Roboto";
+}
+
+.address-text {
+    color: #5a7184;
+    font-weight: 600;
+}
+
+.topic-heading {
+    color: #5a7184;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.topic {
+    color: #5a7184;
+    font-size: 16px;
+    margin-bottom: 4px;
+}
+
+.horizontal-line {
+    border-color: #5a7184
+}
